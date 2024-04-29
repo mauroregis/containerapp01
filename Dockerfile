@@ -7,8 +7,8 @@ EXPOSE 80
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["ContainerApp01/ContainerApp01.csproj", "ContainerApp01/"]
-RUN dotnet restore "./ContainerApp01/./ContainerApp01.csproj"
+COPY ["ContainerApp01.csproj", "ContainerApp01/"]
+RUN dotnet restore "./ContainerApp01.csproj"
 COPY . .
 WORKDIR "/src/ContainerApp01"
 RUN dotnet build "./ContainerApp01.csproj" -c $BUILD_CONFIGURATION -o /app/build
