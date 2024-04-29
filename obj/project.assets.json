@@ -565,11 +565,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_WSP\\MRegis\\ContainerApp01\\ContainerApp01\\ContainerApp01.csproj",
+      "projectUniqueName": "C:\\_WSP\\MRegis\\_GITHUB\\containerapp01\\ContainerApp01.csproj",
       "projectName": "ContainerApp01",
-      "projectPath": "C:\\_WSP\\MRegis\\ContainerApp01\\ContainerApp01\\ContainerApp01.csproj",
+      "projectPath": "C:\\_WSP\\MRegis\\_GITHUB\\containerapp01\\ContainerApp01.csproj",
       "packagesPath": "C:\\Users\\mauro\\.nuget\\packages\\",
-      "outputPath": "C:\\_WSP\\MRegis\\ContainerApp01\\ContainerApp01\\obj\\",
+      "outputPath": "C:\\_WSP\\MRegis\\_GITHUB\\containerapp01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

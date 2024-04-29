@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "27fv/UUJ177UaOLYA5BRsuyI/2CjVi9+x8MJf8WRResuxCdG7xc5s9tdiStIPg0xdHfErulJlOYw4YXDvtiz2Q==",
+  "dgSpecHash": "LBiscip3RDJzMQCLZsr+/u/ftcz9ibXPHK5nGonIsSQlITWcJAeKehyVl23a5qpFG8lz9lcIZLzyddGAtmV9Wg==",
   "success": true,
-  "projectFilePath": "C:\\_WSP\\MRegis\\ContainerApp01\\ContainerApp01\\ContainerApp01.csproj",
+  "projectFilePath": "C:\\_WSP\\MRegis\\_GITHUB\\containerapp01\\ContainerApp01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mauro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.16\\microsoft.aspnetcore.openapi.7.0.16.nupkg.sha512",
     "C:\\Users\\mauro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
