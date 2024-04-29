@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ContainerApp01/.vs/ContainerApp01
+/ContainerApp01/ContainerApp01/obj
+/ContainerApp01/.vs/ProjectEvaluation
+/ContainerApp01/obj
+/.vs/ContainerApp01
+/ContainerApp01/bin/Debug/net7.0
+
+.fake
+/ContainerApp01/bin/Release/net7.0
+/.vs/ProjectEvaluation

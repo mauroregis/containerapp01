@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jAEqPrDri30l0C+vVwL7Xvd9Dm2vm8yLNgMXbO2DjUs=",
+  "Source": "ContainerApp01",
+  "BasePath": "_content/ContainerApp01",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

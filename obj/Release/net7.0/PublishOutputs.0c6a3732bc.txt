@@ -1,0 +1,12 @@
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\ContainerApp01.exe
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\appsettings.Development.json
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\appsettings.json
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\ContainerApp01.dll
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\ContainerApp01.deps.json
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\ContainerApp01.runtimeconfig.json
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\ContainerApp01.pdb
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_WSP\MRegis\ContainerApp01\ContainerApp01\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
